@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "ShellExperienceHost.exe",
+  "latest": "3079092241-B414E7EDF725912585004E7771E1873F-1",
+  "builds": [
+    {
+      "key": "3079092241-B414E7EDF725912585004E7771E1873F-1",
+      "timestamp": "3079092241",
+      "pdb_guid": "B414E7EDF725912585004E7771E1873F",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3079092241-B414E7EDF725912585004E7771E1873F-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
